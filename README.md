@@ -8,7 +8,7 @@ cd $HOME
 ```
 **STEP 2**
 ```
-pkg update -y && pkg upgrade -y && pkg install bash && pkg install git -y && git clone https://github.com/Tanmyname/Shizuka-V1.3.git
+pkg update -y && pkg upgrade -y && pkg install bash && pkg install git -y && git clone https://github.com/ShadowGarden181/Shizuka-V1.3.git
 ```
 **STEP 3**
 ```
