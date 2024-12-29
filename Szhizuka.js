@@ -3,7 +3,7 @@
 //Creator By @ Tan source code by @ Fernazer
 // You can help me by making a donation
 // kamu bisa support saya dengan memberikan saya donasi ✓
-// dana,gopay ==> 6282339835060
+// dana,gopay ==> 6288980735106
 //kamu bebas memodifikasi dan mengubah dan jangan lupa sertakan source creator @Tan
 const path = require("path");
 const { pinterest, pinterest2, wallpaper, remini, wikimedia, quotesAnime, multiDownload, yanzGpt, happymod, umma, ringtone, jadwalsholat, styletext, tiktokDl, facebookDl, instaStory, ytMp4, ytMp3, mediafireDl, quotedLyo,simi,bigconv,ytget,brad } = require('./lib/downloader'); 
