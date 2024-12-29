@@ -1,4 +1,4 @@
-//Recode by @Tan 
+//Recode by @シャドウガーデン 
 //Thanks for Dev @Fernazer
 const chalk = require("chalk")
 const fs = require("fs")
@@ -18,32 +18,32 @@ global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
 global.ig = '--'
 global.yt = 'Tan'
 global.ttowner = '@codenametan'
-global.ownername = '@Tan'
-global.owner = ['72722727272'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
-global.ownernomer = '1718272828'
-global.socialm = 'GitHub: Tanmyname'
+global.ownername = '@シャドウガーデン'
+global.owner = ['6288980735106'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
+global.ownernomer = '6288980735106'
+global.socialm = 'GitHub: ShadowGarden181'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
 global.nodana = '' // KOSONG KAN JIKA TIDAK ADA
 global.nogopay = '' // KOSONG KAN JIKA TIDAK ADA 
 global.noovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
-global.andana = 'Tan' // KOSONG KAN JIKA TIDAK ADA
-global.angopay = 'Tan' // KOSONG KAN JIKA TIDAK ADA
+global.andana = 'シャドウガーデン' // KOSONG KAN JIKA TIDAK ADA
+global.angopay = 'シャドウガーデン' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
-global.botname = "Tv2"
+global.botname = "シャドウガーデン"
 global.ownernumber = '1818191'
 global.botnumber = '6285198468895'
 global.ownername = '@Tan'
-global.ownerNumber = ["61827191818@s.whatsapp.net"]
+global.ownerNumber = ["6288980735106@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.gris = '`'
-global.wagc = "https://chat.whatsapp.com/DuolGpi5CIWDR8dYO6E1pC"
-global.saluran = "https://whatsapp.com/channel/0029VaTck0W6GcGMwiq4tQ3k"
+global.wagc = "https://chat.whatsapp.com/GpTdfYI8GsK4hVOVuISpVU"
+global.saluran = "https://whatsapp.com/channel/0029VajUzFJ5q08aRRdZzZ39"
 global.themeemoji = '🪀'
-global.wm = "Tv2 | 6285198468895"
+global.wm = "シャドウガーデン | 6288980735106"
 global.botscript = 'Ngk ada wle😂' //script link
 global.packname = "Sticker By"
 global.author = "\n\n\n\n\nCreate by Tv2\nNo hape/wa : 6285198468895"
