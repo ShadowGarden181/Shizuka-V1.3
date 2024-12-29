@@ -3,7 +3,7 @@
 //Creator By @ Tan source code by @ Fernazer
 // You can help me by making a donation
 // kamu bisa support saya dengan memberikan saya donasi ✓
-// dana,gopay ==> 6282339835060
+// dana,gopay ==> 6288980735106
 //kamu bebas memodifikasi dan mengubah dan jangan lupa sertakan source creator @Tan
 const path = require("path");
 const { twitterdown,tikdown,ndown,ytdown,instagram } = require('nayan-media-downloader'); 
